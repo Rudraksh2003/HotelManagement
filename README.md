@@ -17,7 +17,7 @@ XYZ Hotel udaipur requires a hotel management system to support its administrati
  hotel is famous for food and services
 
 
- Staff should be able to obtain details of  rooms & food in a variety of ways. The user must be able to request information for the following reports:
+ Staff should be able to obtain details of  rooms & food and total cost in a variety of ways. The user must be able to request information for the following reports:
 
  it provide total earning of the day.
 
