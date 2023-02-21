@@ -2,7 +2,8 @@
 A C++ project that uses OOP concepts to store the records of rooms order food like burger, pasta and shakes in a .DAT file and let the operator to perform following operations:
 
 
-#Screenshots
+# Screenshots
+
 ![Screenshot](https://github.com/Rudraksh2003/HotelManagement/blob/main/Screenshot%202023-02-21%20093205.png?raw=true)
 
 ![Screenshot](https://github.com/Rudraksh2003/HotelManagement/blob/main/Screenshot%202023-02-21%20095828.png?raw=true)
