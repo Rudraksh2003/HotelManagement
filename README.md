@@ -23,3 +23,5 @@ XYZ Hotel udaipur requires a hotel management system to support its administrati
 
  display the booking details of a  room which includes the people staying in the room,
 the food & beverages available or out of stock.
+# Linkedin
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rudraksh-laddha-427b301a5/)
