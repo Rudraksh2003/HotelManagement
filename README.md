@@ -1,5 +1,5 @@
 # HotelManagement
-A C++ project which is based on OOPS concepts to store the records of rooms order food like burger, pasta, shakes, and total earing of hotel in a one place.
+A C++ project which is based on OOPS concepts to store the records of rooms order food like burgers, pasta shakes, and the total earning of the hotel in a one place
 
 
 # Screenshots
