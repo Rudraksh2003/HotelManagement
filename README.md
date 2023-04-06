@@ -1,5 +1,5 @@
 # HotelManagement
-A C++ project which concepts to store the records of rooms order food like burger, pasta, shakes, and total earing of hotel in a one place .DAT file and let the operator to perform following operations:
+A C++ project which is based on OOPS concepts to store the records of rooms order food like burger, pasta, shakes, and total earing of hotel in a one place.
 
 
 # Screenshots
